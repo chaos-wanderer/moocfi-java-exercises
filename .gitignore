@@ -1,9 +1,4 @@
-# Ignore everything by default
 *
 
-# Keep gitignore itself
 !.gitignore
-
-# Allow course folders
-!mooc-java-programming-i/
-!mooc-java-programming-ii/
+!mooc-java-programming-i/**
