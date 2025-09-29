@@ -1,4 +1,7 @@
 *
 
 !.gitignore
+!mooc-java-programming-i
+!mooc-java-programming-ii
 !mooc-java-programming-i/**
+!mooc-java-programming-ii/**
