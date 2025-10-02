@@ -42,9 +42,7 @@ public class Room {
 
         Person shortest = this.shortest();
 
-        Person tempShortest = shortest;
-
-        persons.remove(tempShortest);
+        persons.remove(shortest);
 
         return shortest;
     }
